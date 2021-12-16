@@ -1,0 +1,35 @@
+.ortala{
+    text-align: center;
+}
+.numberbox{
+    width: 300px;
+    height: 30px;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+}
+.button{
+    height: 35px;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+
+}
+.asalDegil{
+    
+    color: red;
+    font-weight: 800;
+    font-size: x-large;
+ 
+}
+.asalSayi{
+
+    color: green;
+    font-weight: 800;
+    font-size: x-large;
+}
+#div1{
+  margin-left: 350px;
+  margin-right: 350px;
+  
+  
+    
+}
